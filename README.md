@@ -10,3 +10,5 @@ Die Darstellung der Artikel beinhalten:
 - Zwischensumme ohne Rabatt
 - Prozentuallen Rabatt (auf 20% gesetzt)
 - Endsumme vom Warenkorb
+
+Die Ausgabe des Warenkorbes findet in der Console statt.
